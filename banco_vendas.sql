@@ -1,0 +1,17 @@
+--USE Projeto_Vendas;
+--GO
+
+--SELECT TOP (1000)
+--      [ID_Venda],
+--      [Data],
+--      [Produto],
+--      [Categoria],
+--      [Quantidade],
+--      [Preco_Unitario],
+--      [Desconto],
+--      [Cidade],
+--      [Estado],
+--      [Forma_Pagamento],
+--      [Vendedor],
+--      [Faturamento]
+--FROM [Projeto_Vendas].[dbo].[vendas];
