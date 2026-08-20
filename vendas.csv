@@ -1,0 +1,101 @@
+﻿ID_Venda;Data;Produto;Categoria ;Quantidade;Preco_Unitario;Desconto;Cidade;Estado;Forma_Pagamento;Vendedor;Faturamento
+1;01/01/2025;Notebook;Informática;9;3500;14%;Caruaru;PE;Boleto;Bruno;R$ 27.090,00
+2;02/01/2025;Smartphone;Celulares;6;1800;5%;Salvador;BA;Boleto;Carla;R$ 10.260,00
+3;03/01/2025;Smartphone;Celulares;1;1800;8%;Fortaleza;CE;Cartão de débito;Bruno;R$ 1.656,00
+4;04/01/2025;Notebook;Informática;8;3500;4%;Juazeiro do Norte;CE;Boleto;Carla;R$ 26.880,00
+5;05/01/2025;Smartphone;Celulares;7;1800;4%;Feira de Santana;BA;Boleto;Carla;R$ 12.096,00
+6;06/01/2025;Headset;Periféricos;4;250;2%;Campina Grande;PB;Pix;Fernanda;R$ 980,00
+7;07/01/2025;Notebook;Informática;10;3500;14%;Recife;PE;Boleto;Fernanda;R$ 30.100,00
+8;08/01/2025;Smartphone;Celulares;4;1800;6%;Fortaleza;CE;Pix;Carla;R$ 6.768,00
+9;09/01/2025;Notebook;Informática;4;3500;1%;Salvador;BA;Cartão de débito;Diego;R$ 13.860,00
+10;10/01/2025;Notebook;Informática;3;3500;12%;Recife;PE;Cartão de débito;Ana;R$ 9.240,00
+11;11/01/2025;Smartphone;Celulares;8;1800;13%;Salvador;BA;Pix;Fernanda;R$ 12.528,00
+12;12/01/2025;Smartphone;Celulares;6;1800;6%;Juazeiro do Norte;CE;Pix;Ana;R$ 10.152,00
+13;13/01/2025;Notebook;Informática;2;3500;3%;Salvador;BA;Cartão de crédito;Bruno;R$ 6.790,00
+14;14/01/2025;Mouse;Periféricos;7;80;15%;Recife;PE;Pix;Ana;R$ 476,00
+15;15/01/2025;Smartphone;Celulares;3;1800;15%;Mossoró;RN;Cartão de débito;Carla;R$ 4.590,00
+16;16/01/2025;Headset;Periféricos;8;250;6%;Juazeiro do Norte;CE;Cartão de crédito;Diego;R$ 1.880,00
+17;17/01/2025;Headset;Periféricos;8;250;6%;Mossoró;RN;Boleto;Fernanda;R$ 1.880,00
+18;18/01/2025;Teclado;Periféricos;10;150;4%;Salvador;BA;Pix;Carla;R$ 1.440,00
+19;19/01/2025;Mouse;Periféricos;4;80;11%;Recife;PE;Boleto;Diego;R$ 284,80
+20;20/01/2025;Monitor;Informática;1;1200;12%;Campina Grande;PB;Boleto;Fernanda;R$ 1.056,00
+21;21/01/2025;Teclado;Periféricos;1;150;14%;Campina Grande;PB;Cartão de crédito;Carla;R$ 129,00
+22;22/01/2025;Notebook;Informática;9;3500;0%;Feira de Santana;BA;Boleto;Diego;R$ 31.500,00
+23;23/01/2025;Headset;Periféricos;8;250;8%;Arapiraca;AL;Boleto;Carla;R$ 1.840,00
+24;24/01/2025;Headset;Periféricos;5;250;8%;Feira de Santana;BA;Cartão de crédito;Diego;R$ 1.150,00
+25;25/01/2025;Smartphone;Celulares;1;1800;3%;Feira de Santana;BA;Cartão de débito;Carla;R$ 1.746,00
+26;26/01/2025;Notebook;Informática;8;3500;4%;João Pessoa;PB;Cartão de débito;Fernanda;R$ 26.880,00
+27;27/01/2025;Teclado;Periféricos;7;150;8%;Recife;PE;Cartão de crédito;Carla;R$ 966,00
+28;28/01/2025;Teclado;Periféricos;10;150;5%;Juazeiro do Norte;CE;Cartão de débito;Bruno;R$ 1.425,00
+29;29/01/2025;Headset;Periféricos;6;250;8%;Natal;RN;Cartão de débito;Bruno;R$ 1.380,00
+30;30/01/2025;Headset;Periféricos;1;250;8%;Fortaleza;CE;Cartão de crédito;Bruno;R$ 230,00
+31;31/01/2025;Teclado;Periféricos;2;150;14%;Campina Grande;PB;Boleto;Bruno;R$ 258,00
+32;01/02/2025;Mouse;Periféricos;4;80;5%;Caruaru;PE;Pix;Carla;R$ 304,00
+33;02/02/2025;Smartphone;Celulares;2;1800;0%;Feira de Santana;BA;Pix;Carla;R$ 3.600,00
+34;03/02/2025;Headset;Periféricos;7;250;2%;Recife;PE;Boleto;Diego;R$ 1.715,00
+35;04/02/2025;Teclado;Periféricos;2;150;1%;Caruaru;PE;Boleto;Bruno;R$ 297,00
+36;05/02/2025;Notebook;Informática;1;3500;15%;João Pessoa;PB;Cartão de crédito;Carla;R$ 2.975,00
+37;06/02/2025;Notebook;Informática;2;3500;15%;Mossoró;RN;Cartão de crédito;Bruno;R$ 5.950,00
+38;07/02/2025;Mouse;Periféricos;1;80;5%;Salvador;BA;Pix;Fernanda;R$ 76,00
+39;08/02/2025;Notebook;Informática;4;3500;4%;Arapiraca;AL;Cartão de débito;Diego;R$ 13.440,00
+40;09/02/2025;Teclado;Periféricos;8;150;1%;Maceió;AL;Pix;Fernanda;R$ 1.188,00
+41;10/02/2025;Mouse;Periféricos;6;80;2%;Mossoró;RN;Cartão de débito;Carla;R$ 470,40
+42;11/02/2025;Smartphone;Celulares;9;1800;4%;Maceió;AL;Boleto;Bruno;R$ 15.552,00
+43;12/02/2025;Headset;Periféricos;6;250;9%;João Pessoa;PB;Boleto;Fernanda;R$ 1.365,00
+44;13/02/2025;Smartphone;Celulares;5;1800;9%;Mossoró;RN;Cartão de débito;Diego;R$ 8.190,00
+45;14/02/2025;Smartphone;Celulares;1;1800;15%;Natal;RN;Cartão de débito;Carla;R$ 1.530,00
+46;15/02/2025;Mouse;Periféricos;5;80;12%;Maceió;AL;Boleto;Carla;R$ 352,00
+47;16/02/2025;Teclado;Periféricos;10;150;0%;Salvador;BA;Cartão de débito;Carla;R$ 1.500,00
+48;17/02/2025;Teclado;Periféricos;1;150;13%;Arapiraca;AL;Cartão de débito;Diego;R$ 130,50
+49;18/02/2025;Notebook;Informática;1;3500;1%;Salvador;BA;Cartão de crédito;Ana;R$ 3.465,00
+50;19/02/2025;Smartphone;Celulares;5;1800;7%;Feira de Santana;BA;Boleto;Carla;R$ 8.370,00
+51;20/02/2025;Monitor;Informática;4;1200;1%;Maceió;AL;Cartão de crédito;Carla;R$ 4.752,00
+52;21/02/2025;Headset;Periféricos;2;250;0%;Maceió;AL;Cartão de crédito;Carla;R$ 500,00
+53;22/02/2025;Monitor;Informática;6;1200;4%;Mossoró;RN;Cartão de crédito;Carla;R$ 6.912,00
+54;23/02/2025;Notebook;Informática;10;3500;6%;Campina Grande;PB;Cartão de débito;Fernanda;R$ 32.900,00
+55;24/02/2025;Notebook;Informática;5;3500;8%;Mossoró;RN;Cartão de crédito;Bruno;R$ 16.100,00
+56;25/02/2025;Mouse;Periféricos;2;80;9%;Arapiraca;AL;Boleto;Bruno;R$ 145,60
+57;26/02/2025;Smartphone;Celulares;5;1800;10%;Recife;PE;Boleto;Fernanda;R$ 8.100,00
+58;27/02/2025;Mouse;Periféricos;7;80;14%;Fortaleza;CE;Cartão de débito;Bruno;R$ 481,60
+59;28/02/2025;Monitor;Informática;9;1200;4%;Feira de Santana;BA;Pix;Diego;R$ 10.368,00
+60;01/03/2025;Notebook;Informática;4;3500;13%;João Pessoa;PB;Cartão de crédito;Bruno;R$ 12.180,00
+61;02/03/2025;Headset;Periféricos;3;250;1%;Fortaleza;CE;Cartão de crédito;Carla;R$ 742,50
+62;03/03/2025;Notebook;Informática;6;3500;0%;Maceió;AL;Cartão de débito;Fernanda;R$ 21.000,00
+63;04/03/2025;Smartphone;Celulares;7;1800;3%;Caruaru;PE;Cartão de débito;Fernanda;R$ 12.222,00
+64;05/03/2025;Teclado;Periféricos;9;150;1%;Caruaru;PE;Boleto;Ana;R$ 1.336,50
+65;06/03/2025;Teclado;Periféricos;9;150;15%;Natal;RN;Boleto;Ana;R$ 1.147,50
+66;07/03/2025;Teclado;Periféricos;1;150;3%;Recife;PE;Cartão de débito;Carla;R$ 145,50
+67;08/03/2025;Teclado;Periféricos;10;150;15%;Feira de Santana;BA;Cartão de crédito;Carla;R$ 1.275,00
+68;09/03/2025;Teclado;Periféricos;4;150;0%;Arapiraca;AL;Cartão de débito;Diego;R$ 600,00
+69;10/03/2025;Teclado;Periféricos;2;150;13%;Maceió;AL;Pix;Carla;R$ 261,00
+70;11/03/2025;Teclado;Periféricos;4;150;3%;Maceió;AL;Cartão de crédito;Carla;R$ 582,00
+71;12/03/2025;Notebook;Informática;9;3500;7%;Juazeiro do Norte;CE;Cartão de débito;Carla;R$ 29.295,00
+72;13/03/2025;Mouse;Periféricos;6;80;12%;Fortaleza;CE;Boleto;Bruno;R$ 422,40
+73;14/03/2025;Monitor;Informática;3;1200;1%;Juazeiro do Norte;CE;Cartão de crédito;Fernanda;R$ 3.564,00
+74;15/03/2025;Teclado;Periféricos;1;150;1%;Arapiraca;AL;Cartão de débito;Diego;R$ 148,50
+75;16/03/2025;Teclado;Periféricos;1;150;10%;Salvador;BA;Pix;Ana;R$ 135,00
+76;17/03/2025;Headset;Periféricos;1;250;4%;Arapiraca;AL;Cartão de débito;Bruno;R$ 240,00
+77;18/03/2025;Smartphone;Celulares;8;1800;1%;Mossoró;RN;Cartão de crédito;Ana;R$ 14.256,00
+78;19/03/2025;Smartphone;Celulares;6;1800;10%;João Pessoa;PB;Boleto;Bruno;R$ 9.720,00
+79;20/03/2025;Smartphone;Celulares;3;1800;10%;Campina Grande;PB;Pix;Bruno;R$ 4.860,00
+80;21/03/2025;Notebook;Informática;9;3500;14%;Arapiraca;AL;Pix;Ana;R$ 27.090,00
+81;22/03/2025;Mouse;Periféricos;9;80;4%;Arapiraca;AL;Cartão de débito;Ana;R$ 691,20
+82;23/03/2025;Monitor;Informática;3;1200;4%;Recife;PE;Pix;Ana;R$ 3.456,00
+83;24/03/2025;Monitor;Informática;6;1200;12%;Fortaleza;CE;Cartão de débito;Carla;R$ 6.336,00
+84;25/03/2025;Headset;Periféricos;9;250;2%;Arapiraca;AL;Boleto;Bruno;R$ 2.205,00
+85;26/03/2025;Monitor;Informática;7;1200;14%;Juazeiro do Norte;CE;Boleto;Carla;R$ 7.224,00
+86;27/03/2025;Notebook;Informática;1;3500;1%;João Pessoa;PB;Cartão de crédito;Ana;R$ 3.465,00
+87;28/03/2025;Smartphone;Celulares;6;1800;0%;Arapiraca;AL;Boleto;Bruno;R$ 10.800,00
+88;29/03/2025;Mouse;Periféricos;8;80;11%;Fortaleza;CE;Cartão de crédito;Ana;R$ 569,60
+89;30/03/2025;Smartphone;Celulares;3;1800;9%;Natal;RN;Cartão de crédito;Fernanda;R$ 4.914,00
+90;31/03/2025;Headset;Periféricos;6;250;15%;Salvador;BA;Cartão de crédito;Diego;R$ 1.275,00
+91;01/04/2025;Mouse;Periféricos;2;80;2%;Feira de Santana;BA;Boleto;Fernanda;R$ 156,80
+92;02/04/2025;Headset;Periféricos;10;250;7%;Maceió;AL;Pix;Ana;R$ 2.325,00
+93;03/04/2025;Smartphone;Celulares;2;1800;0%;Recife;PE;Cartão de débito;Diego;R$ 3.600,00
+94;04/04/2025;Smartphone;Celulares;5;1800;7%;Mossoró;RN;Cartão de crédito;Diego;R$ 8.370,00
+95;05/04/2025;Teclado;Periféricos;7;150;11%;Arapiraca;AL;Cartão de débito;Fernanda;R$ 934,50
+96;06/04/2025;Teclado;Periféricos;1;150;13%;Maceió;AL;Cartão de crédito;Carla;R$ 130,50
+97;07/04/2025;Notebook;Informática;10;3500;13%;Mossoró;RN;Boleto;Diego;R$ 30.450,00
+98;08/04/2025;Headset;Periféricos;2;250;0%;Natal;RN;Cartão de crédito;Ana;R$ 500,00
+99;09/04/2025;Mouse;Periféricos;2;80;0%;Mossoró;RN;Cartão de crédito;Diego;R$ 160,00
+100;10/04/2025;Headset;Periféricos;4;250;13%;Natal;RN;Pix;Bruno;R$ 870,00
