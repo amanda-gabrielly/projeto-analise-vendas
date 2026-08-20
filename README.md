@@ -17,6 +17,7 @@ A análise foi realizada utilizando SQL Server a partir de uma base de dados em 
 
 - `vendas.xlsx` → base de dados criada em Excel
 - `vendas.csv` → base em texto, utilizada para importação no SQL Server
+- `banco_vendas.sql` → consulta principal para visualização dos dados da tabela `vendas`
 - `projeto_vendas.sql` → consultas SQL utilizadas na análise do projeto
 
 ### Análises realizadas
