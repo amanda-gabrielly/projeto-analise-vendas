@@ -4,12 +4,13 @@
 
 Este projeto foi desenvolvido com o objetivo de analisar dados de vendas e identificar informações relevantes sobre faturamento, produtos, cidades, vendedores, categorias e formas de pagamento.
 
-A análise foi realizada utilizando SQL Server a partir de uma base de dados em formato CSV.
+A análise foi realizada utilizando SQL Server a partir de uma base de dados em formato CSV e em Power BI para criação do dashboard e visualização dos principais indicadores.
 
 ### Tecnologias utilizadas
 
 - SQL Server
 - SQL
+- Power BI
 - CSV
 - Excel
 
@@ -19,6 +20,7 @@ A análise foi realizada utilizando SQL Server a partir de uma base de dados em 
 - `vendas.csv` → base em texto, utilizada para importação no SQL Server
 - `banco_vendas.sql` → consulta principal para visualização dos dados da tabela `vendas`
 - `projeto_vendas.sql` → consultas SQL utilizadas na análise do projeto
+- `dashboard_analise_de_vendas.pbix` → dashboard desenvolvido no Power BI 
 
 ### Análises realizadas
 
@@ -40,7 +42,7 @@ Foram realizadas consultas para verificar:
 
 O projeto possui **100 vendas**, totalizando:
 
-**R$ 62.789.540,00**
+**R$ 627.895,40**
 
 ### Produtos
 
