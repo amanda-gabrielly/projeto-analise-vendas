@@ -1,12 +1,12 @@
-# Projeto Análise de Vendas
+# 📊 Projeto Análise de Vendas
 
 ## Objetivo do projeto
 
 Este projeto foi desenvolvido com o objetivo de analisar dados de vendas e identificar informações relevantes sobre faturamento, produtos, cidades, vendedores, categorias e formas de pagamento.
 
-A análise foi realizada utilizando SQL Server a partir de uma base de dados em formato CSV e em Power BI para criação do dashboard e visualização dos principais indicadores.
+A análise foi realizada utilizando **SQL Server** a partir de uma base de dados em formato CSV, e **Power BI** para criação do dashboard e visualização dos principais indicadores.
 
-### Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 - SQL Server
 - SQL
@@ -14,15 +14,17 @@ A análise foi realizada utilizando SQL Server a partir de uma base de dados em 
 - CSV
 - Excel
 
-### Arquivos do projeto
+## 📂 Arquivos do projeto
 
-- `vendas.xlsx` → base de dados criada em Excel
-- `vendas.csv` → base em texto, utilizada para importação no SQL Server
-- `banco_vendas.sql` → consulta principal para visualização dos dados da tabela `vendas`
-- `projeto_vendas.sql` → consultas SQL utilizadas na análise do projeto
-- `dashboard_analise_de_vendas.pbix` → dashboard desenvolvido no Power BI 
+| Arquivo | Descrição |
+|---|---|
+| `vendas.xlsx` | Base de dados criada em Excel |
+| `vendas.csv` | Base em texto, utilizada para importação no SQL Server |
+| `banco_vendas.sql` | Consulta principal para visualização dos dados da tabela `vendas` |
+| `projeto_vendas.sql` | Consultas SQL utilizadas na análise do projeto |
+| `dashboard_analise_de_vendas.pbix` | Dashboard desenvolvido no Power BI |
 
-### Análises realizadas
+## 🔍 Análises realizadas
 
 Foram realizadas consultas para verificar:
 
@@ -36,54 +38,38 @@ Foram realizadas consultas para verificar:
 - Formas de pagamento
 - Faturamento por categoria
 
-### Principais resultados
+```sql
+-- Exemplo: faturamento por categoria
+SELECT
+    Categoria,
+    SUM(Faturamento) AS Faturamento_Total,
+    SUM(Quantidade) AS Quantidade_Total
+FROM dbo.vendas
+GROUP BY Categoria
+ORDER BY Faturamento_Total DESC;
+```
 
-### Faturamento total
+## 📈 Principais resultados
 
-O projeto possui **100 vendas**, totalizando:
+A base possui **100 vendas**, totalizando **R$ 627.895,40** em faturamento.
 
-**R$ 627.895,40**
+| Indicador | Resultado |
+|---|---|
+| Produto com maior faturamento | Notebook — R$ 370.650,00 |
+| Preço médio do Notebook | R$ 3.500,00 |
+| Cidade com maior faturamento | Mossoró — R$ 97.328,40 |
+| Vendedora com maior faturamento | Fernanda — R$ 159.844,30 |
+| Categoria com maior faturamento | Informática — R$ 414.318,00 |
+| Forma de pagamento mais utilizada | Boleto — 28 vendas |
 
-### Produtos
-
-O produto com maior faturamento foi o **Notebook**, com:
-
-**R$ 37.065.000,00**
-
-O preço médio do Notebook foi de **R$ 3.500,00**.
-
-### Cidades
-
-A cidade com maior faturamento foi:
-
-**Mossoró — R$ 9.732.840,00**
-
-### Vendedores
-
-A vendedora com maior faturamento foi:
-
-**Fernanda — R$ 15.984.430,00**
-
-### Categorias
-
-A categoria com maior faturamento foi:
-
-**Informática — R$ 41.431.800,00**
-
-### Formas de pagamento
-
-A forma de pagamento mais utilizada foi:
-
-**Boleto — 28 vendas**
-
-## Insights
+## 💡 Insights
 
 A análise demonstra que produtos de maior valor unitário possuem forte impacto no faturamento total. O Notebook, por exemplo, apresentou o maior faturamento mesmo sem possuir uma quantidade de vendas muito superior aos demais produtos.
 
 Também foi possível observar diferenças de desempenho entre vendedores e cidades, permitindo identificar quais regiões, produtos e profissionais apresentaram maior contribuição para o faturamento.
 
-## Desenvolvedora
+## 👩‍💻 Desenvolvedora
 
-Amanda Gabrielly
-
+**Amanda Gabrielly**
 Projeto desenvolvido como parte da construção de portfólio na área de Dados.
+
